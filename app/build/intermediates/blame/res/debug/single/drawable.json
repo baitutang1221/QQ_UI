@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq_constact.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\qq_constact.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scan_ercode.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\scan_ercode.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq_constact_group.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\qq_constact_group.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll_bg.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\ll_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_setting.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\bar_setting.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_et_bg.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\login_et_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_picture_bg.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\login_picture_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq_constact_all.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\qq_constact_all.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_group_item_background.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\list_group_item_background.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_user_btn.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\register_user_btn.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_progress.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\refresh_progress.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_bg.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\pop_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottom_last.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\btn_bottom_last.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll_bg_d.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\ll_bg_d.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_bg.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\progressbar_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttom_bar_font.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\buttom_bar_font.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_news.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\bar_news.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scan_light.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\scan_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\login_btn.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_deynaimic.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\bar_deynaimic.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq_constact_font.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\qq_constact_font.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_constact.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\bar_constact.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sacn_pic.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\sacn_pic.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_phone_bg.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\register_phone_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll_top_bg.xml",
+        "source": "D:\\Work\\code\\Demos\\QQ_TRUE\\app\\src\\main\\res\\drawable\\ll_top_bg.xml"
+    }
+]
